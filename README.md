@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mati Rivarola</h1>
+  <h1 align="center">Hi 👋, I'm Mati Rivarola</h1>
 <h3 align="center">FullStack developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matirivarola1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-rivarola-6b0587245/" height="30" width="40" /></a>
+    <a href="https://portfoliomatirivarola.vercel.app/" target="blank"><img align="center" src="https://i.ibb.co/8DwJRc6/Portfolio.png" alt="Logo Matias Rivarola FullStack Developer" width="40" height="40"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,3 +14,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matirivarola&show_icons=true&locale=en&layout=compact" alt="matirivarola" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matirivarola&show_icons=true&locale=en" alt="matirivarola" /></p>
+  <p align="left">
+    <a href="https://github.com/matirivarola/matirivarola.github.io">
+      <img src="https://img.shields.io/badge/Website-matirivarola.github.io-blue?style=for-the-badge&logo=github" alt="Website">
+    </a>
+    <a href="https://github.com/matirivarola/matirivarola.github.io/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/matirivarola/matirivarola.github.io?style=for-the-badge&logo=github" alt="License">
+    </a>
+    <a href="https://github.com/matirivarola/matirivarola.github.io/stargazers">
+      <img src="https://img.shields.io/github/stars/matirivarola/matirivarola.github.io?style=for-the-badge&logo=github" alt="Stars">
+    </a>
+    <a href="https://github.com/matirivarola/matirivarola.github.io/network/members">
+      <img src="https://img.shields.io/github/forks/matirivarola/matirivarola.github.io?style=for-the-badge&logo=github" alt="Forks">
+    </a>
+  </p>
+  
